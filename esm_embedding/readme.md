@@ -1,0 +1,1 @@
+## please download esm2_t6_8M_UR50D-contact-regression.pt and esm2_t6_8M_UR50D.pt here, urls are https://dl.fbaipublicfiles.com/fair-esm/models/esm2_t6_8M_UR50D.pt and https://dl.fbaipublicfiles.com/fair-esm/regression/esm2_t6_8M_UR50D-contact-regression.pt
